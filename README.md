@@ -29,7 +29,7 @@ EXAMPLE OF CMD ARGUEMENT: java Solve.java -d ../a02-data/dictionary-large.txt -p
 
 ### Final Note
 
-If you are ever running a test on a puzzle xword02 you should only ever use a combination of mrv or mrv+deg and -lfc (or not using -lfc). The other combinations of flags do not deal with the large amount of variables very well
+If you are ever running a test on a puzzle xword02 you should only ever use a combination of mrv or mrv+deg and -lfc (or not using -lfc). The other combinations of flags do not deal with the large amount of variables very well.
 
 Author: Jackson Mishuk
  
